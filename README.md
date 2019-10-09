@@ -1,4 +1,4 @@
-## Udacity's Data Scientist Capstone Project: Dog Breed Classifier
+## Udacity's Data Scientist Nanodegree Capstone Project: Dog Breed Classifier
 
 ### Project Overview
 
